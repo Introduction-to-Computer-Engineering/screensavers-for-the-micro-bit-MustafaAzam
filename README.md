@@ -132,4 +132,4 @@ _A box that keeps expanding as it moves away from the circle, forming a "target"
 _Final program containing all screensavers and functions._
 
 ## Demo URL
-[Imgur URL] (https://imgur.com/a/YylWWVq)
+[Imgur URL](https://imgur.com/a/YylWWVq)
