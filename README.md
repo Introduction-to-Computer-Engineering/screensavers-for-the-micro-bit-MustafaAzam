@@ -109,11 +109,22 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ### SS 1
 
-_[Your description of screensaver 1]_
+_A repeating animation of a gradient waterfall._
 
 ### SS 2 
 
-_[And so on]_
+_A Snake that forms a "lollipop" pattern while moving toward the center. Brightness increases while it moves._
 
+### SS 3
+
+_A repeating Hourglass pattern._
+
+### SS 4
+
+_A bar that keeps spinning around the center._
+
+### SS 5
+
+_A box that keeps expanding as it moves away from the circle, forming a "target" pattern._
 ## Demo URL
 
